@@ -3,7 +3,7 @@ const outerFunc=()=>{
     let innerFunc=()=>{
         console.log(outerval);
     }
-    return innerFunc;
+   
 }
 
 outerFunc();

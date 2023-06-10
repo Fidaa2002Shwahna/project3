@@ -1,0 +1,122 @@
+{
+  "Movie 1": {
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "release year": 1994,
+    "genre": "Drama"
+  },
+  "Movie 3": {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "release year": 2008,
+    "genre": "Action, Crime, Drama"
+  },
+  "Movie 2": {
+    "title": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "release year": 1972,
+    "genre": "Crime, Drama"
+  },
+  "Movie 4": {
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "release year": 1994,
+    "genre": "Crime, Drama"
+  },
+  "Movie 5": {
+    "title": "Fight Club",
+    "director": "David Fincher",
+    "release year": 1999,
+    "genre": "Drama"
+  },
+  "Movie 6": {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "release year": 2010,
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  "Movie 7": {
+    "title": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "release year": 1994,
+    "genre": "Drama, Romance"
+  },
+  "Movie 8": {
+    "title": "The Matrix",
+    "director": "The Wachowskis",
+    "release year": 1999,
+    "genre": "Action, Sci-Fi"
+  },
+  "Movie 9": {
+    "title": "The Lord of the Rings trilogy",
+    "director": "Peter Jackson",
+    "release year": 2001,
+    "genre": "Adventure, Drama, Fantasy"
+  },
+  "Movie 10": {
+    "title": "Star Wars (original trilogy)",
+    "director": "George Lucas",
+    "release year": 1977,
+    "genre": "Action, Adventure, Fantasy, Sci-Fi"
+  },
+  "Movie 11": {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "release year": 1997,
+    "genre": "Drama, Romance"
+  },
+  "Movie 12": {
+    "title": "Goodfellas",
+    "director": "Martin Scorsese",
+    "release year": 1990,
+    "genre": "Biography, Crime, Drama"
+  },
+  "Movie 13": {
+    "title": "The Avengers (Marvel Cinematic Universe)",
+    "director": "Joss Whedon",
+    "release year": 2012,
+    "genre": "Action, Adventure, Sci-Fi"
+  },
+  "Movie 14": {
+    "title": "The Lion King",
+    "director": "Roger Allers, Rob Minkoff",
+    "release year": 1994,
+    "genre": "Animation, Adventure, Drama"
+  },
+  "Movie 15": {
+    "title": "Casablanca",
+    "director": "Michael Curtiz",
+    "release year": 1942,
+    "genre": "Drama, Romance, War"
+  },
+  "Movie 16": {
+    "title": "The Silence of the Lambs",
+    "director": "Jonathan Demme",
+    "release year": 1991,
+    "genre": "Crime, Drama, Thriller"
+  },
+  "Movie 17": {
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "release year": 2000,
+    "genre": "Action, Adventure, Drama"
+  },
+  "Movie 18": {
+    "title": "The Departed",
+    "director": "Martin Scorsese",
+    "release year": 2006,
+    "genre": "Crime, Drama, Thriller"
+  },
+  "Movie 19": {
+    "title": "ww",
+    "director": "www",
+    "releaseYear": "www",
+    "genre": "www"
+  },
+  "Movie 21": {
+    "title": "ee",
+    "director": "ee",
+    "releaseYear": "ee",
+    "genre": "ee"
+  }
+}
